@@ -1,4 +1,4 @@
-# Funsho Akinbile - Data Analysis Portfolio
+<!--# Funsho Akinbile - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -47,7 +47,7 @@ This is the most important step. To turn your portfolio into a live website, you
 
 ### 3. Customize Your Portfolio
 Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
+<!--- Your name and title
 - Social media links
 - The "About Me" section
 - Your project titles, descriptions, and links
